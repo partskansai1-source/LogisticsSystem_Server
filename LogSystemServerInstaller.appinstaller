@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://imaki30322.github.io/HPK_LogisticsSystem/LogSystemServerInstaller.appinstaller"
+	Version="1.7.0.0" 
+	xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="LogSystemServer-Installer"
+		Version="1.7.0.0"
+		Publisher="CN=HondaPartsKansai"
+		Uri="https://github.com/IMAKI30322/HPK_LogisticsSystem/releases/download/v1.7/LogSystemServerInstaller_1.7.0.0_AnyCPU.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
+
+
+
+
+
+
+
+
+
+
+
+
