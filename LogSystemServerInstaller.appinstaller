@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://partskansai1-source.io/LogisticsSystem_Server/LogSystemServerInstaller.appinstaller"
+	Uri="https://partskansai1-source.github.io/LogisticsSystem_Server/LogSystemServerInstaller.appinstaller"
 	Version="1.7.0.0" 
 	xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
@@ -13,6 +13,7 @@
 			HoursBetweenUpdateChecks="0" />
 	</UpdateSettings>
 </AppInstaller>
+
 
 
 
